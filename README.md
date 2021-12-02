@@ -1,2 +1,2 @@
-# st-augustine-tribute-page
-project for free code camp
+# tribute page
+ freecodecampproject
